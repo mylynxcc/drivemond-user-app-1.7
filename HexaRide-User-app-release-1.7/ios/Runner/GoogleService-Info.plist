@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>704110199201-fug66761lbsl4r0i8neo0m08m8s9tm1t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.704110199201-fug66761lbsl4r0i8neo0m08m8s9tm1t</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>704110199201-kkkmlbh64g8g2hklcu6lmrnh9peut3to.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD9YY019xqyvJC9EcHSfG3ha_kdeOmQxeQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>704110199201</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.swiftex.lynxuser</string>
+	<key>PROJECT_ID</key>
+	<string>lynx-rider-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lynx-rider-app.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:704110199201:ios:cd1269b88eabe82bfe8be0</string>
+</dict>
+</plist>
